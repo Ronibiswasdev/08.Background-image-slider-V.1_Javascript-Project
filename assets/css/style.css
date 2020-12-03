@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.max-height {
+    height: 100vh;
+}
+
+.imagesCont {
+    width: 100%;
+    height: 400px;
+}
